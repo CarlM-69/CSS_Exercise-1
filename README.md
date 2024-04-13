@@ -5,13 +5,13 @@
 - [x]  Must have a text or image inside of the box element.
 - [x]  Must implement atleast 3 different transition effects on the box element.
 - [x]  Each transition effect should be triggered by a different user interactions, such as hovering, clicking, or scrolling.
+&#2611;
 
 ## Features
 - Used pseudo classes and elements: **":hover"**, **":active"**, and **"::after"**.
 - Used a combinator: **">"**.
-- Changing text, shape, size, and background color for *box element*.
+- Changing text, shape, size, rotation, and background color for *box element*.
 - Implemented smooth transition from **hovering**, **clicking**, and **scrolling**.
-- 
 
 ## Authors
 
