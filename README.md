@@ -12,7 +12,7 @@
 - Changing text, shape, size, rotation, and background color for *box element*.
 - Implemented smooth transition from **hovering**, **clicking**, and **scrolling**.
 
-## Authors
+## Author
 
 - Facebook: [@carlmathewgabay](https://www.facebook.com/carlmathewgabay)
 
