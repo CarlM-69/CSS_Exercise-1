@@ -79,6 +79,7 @@ body {
 .content .box:hover {
 	background: #00ff48;
 	border-radius: 0;
+	transform: rotate(180deg);
 }
 
 .content .box:hover > span {
