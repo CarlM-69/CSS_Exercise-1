@@ -92,7 +92,6 @@ body {
 	top: 20px;
 	left: 0;
 	content: "I'M A GREEN SQUARE";
-	transition: all 0.5s;
 }
 
 .content .box:active {
